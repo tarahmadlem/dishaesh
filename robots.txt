@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohpheethu.conexo.vc/sitemap.xml
